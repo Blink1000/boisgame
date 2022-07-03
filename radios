@@ -1,5 +1,5 @@
 STATION NAME|ACCESS TO STATION|CURRENT SONG NAME
 //PSYTRANCE
-radio.psymusic.co.uk|https://radio.psymusic.co.uk:8000/hifi.mp3|https://radio.psymusic.co.uk:8040/
+PsyMusic UK - PsyStream|https://radio.psymusic.co.uk:8000/hifi.mp3|https://radio.psymusic.co.uk:8000/currentsong?sid=1
 psyradio * fm - psytrance|http://81.88.36.42:8030/|http://81.88.36.42:8030/currentsong?sid=1
-Hirschmilch Psytrance|http://hirschmilch.de:7000/|http://hirschmilch.de:7000/currentsong?sid=8
+PsyBraziL Entertainment Radio|http://186.236.237.155:8000/|http://186.236.237.155:8000/nextsong?sid=1
