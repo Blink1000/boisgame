@@ -1,4 +1,4 @@
-TYPE|STATION NAME|ACCESS TO STATION|CURRENT SONG NAME
+//TYPE|STATION NAME|ACCESS TO STATION|CURRENT SONG NAME
 //PSYTRANCE
 PSYCHEDELIC|PsyMusic UK - PsyStream|https://radio.psymusic.co.uk:8000/hifi.mp3|https://radio.psymusic.co.uk:8000/currentsong?sid=1
 PSYCHEDELIC|psyradio * fm - psytrance|http://81.88.36.42:8030/|http://81.88.36.42:8030/currentsong?sid=1
