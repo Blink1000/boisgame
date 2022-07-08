@@ -1,8 +1,8 @@
 //TYPE|STATION NAME|ACCESS TO STATION|CURRENT SONG NAME
 //PSYTRANCE
 PSYCHEDELIC|PsyMusic UK - PsyStream|https://radio.psymusic.co.uk:8000/hifi.mp3|https://radio.psymusic.co.uk:8000/currentsong?sid=1
-PSYCHEDELIC|psyradio * fm - psytrance|http://81.88.36.42:8030/
-PSYCHEDELIC|PsyBraziL Entertainment Radio|http://186.236.237.155:8000/
+PSYCHEDELIC|psyradio * fm - psytrance|http://81.88.36.42:8030
+PSYCHEDELIC|PsyBraziL Entertainment Radio|http://186.236.237.155:8000
 PSYCHEDELIC|Psyndora Psytrance|https://cast.magicstreams.gr:9111
 COMEDY|Trespatines Radio Show|http://149.56.155.73:8095
 COMEDY|Al Orthdoxiya Radio Station|http://192.96.205.59:7040
@@ -12,11 +12,11 @@ COMEDY|Radio Maria Italia|http://54.37.84.199:8002|Spiritual talk
 COMEDY|Riddim1 Radio|http://us2.internet-radio.com:8183
 COMEDY|Diverse FM|http://109.169.46.197:8011
 COMEDY|www.madhurawaz.com|http://144.217.203.184:9117
-MEDITATION|Ambi Nature Radio|http://94.23.252.14:8067/
-MEDITATION|PARTY VIBE RADIO : AMBIENT|http://www.partyviberadio.com:8056/
+MEDITATION|Ambi Nature Radio|http://94.23.252.14:8067
+MEDITATION|PARTY VIBE RADIO : AMBIENT|http://www.partyviberadio.com:8056
 HARDSTYLE|HARDSTYLE MUSIC 100% Hardstyle|http://uk5.internet-radio.com:8270
-JAPANESE|Tsubaki Web Radio|http://stream.tsubakianimeradio.com:9000/
-SOUNDTRACKS|CINEMIX Radio|http://51.81.46.118:1190/
+JAPANESE|Tsubaki Web Radio|http://stream.tsubakianimeradio.com:9000
+SOUNDTRACKS|CINEMIX Radio|http://51.81.46.118:1190
 DOWNTEMPO|LOUNGE-RADIO.COM|http://77.235.42.90:80
 JAZZ|BEST SMOOTH JAZZ - UK|http://64.95.243.43:8002
 CLASSICAL|www.veniceclassicradio.eu|http://174.36.206.197:8000
